@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ma",
+				"MAX_CHAR"
+			],
+			[
+				"displayArray",
+				"displayArraySelect"
+			],
+			[
+				"tode",
+				"todeviceid"
+			],
+			[
+				"recei",
+				"receiverSourceSelect"
+			],
+			[
+				"anal",
+				"analog_input"
+			],
+			[
+				"tra",
+				"transmitters"
+			],
+			[
+				"device",
+				"deviceType"
+			],
+			[
+				"Max",
+				"MAX_CHAR"
+			],
+			[
+				"DisplayArrayS",
+				"displayArraySourceSelect"
+			],
+			[
+				"sour",
+				"sourceid"
+			],
+			[
+				"layo",
+				"layoutid"
+			],
+			[
+				"to",
+				"toDevice"
+			],
+			[
+				"display",
+				"displayArraySize"
+			],
+			[
+				"displ",
+				"displayArrayCol"
+			],
+			[
+				"disp",
+				"displayArrayRow"
+			],
+			[
+				"lay",
+				"layout_id"
+			],
+			[
+				"getlayout",
+				"getlayoutsbyrange"
+			],
+			[
+				"Pro",
+				"ProcessLogic"
+			],
+			[
+				"globa",
+				"global_output"
+			],
+			[
+				"global",
+				"global_input"
+			],
+			[
+				"Click",
+				"ClickshareIP"
+			],
+			[
+				"ccp",
+				"ccp_tcp_port"
+			],
+			[
+				"SocketCon",
+				"SocketConnectClient"
+			],
+			[
+				"poll",
+				"pollProcessor"
+			],
+			[
+				"py",
+				"pyngAddress_fb"
+			],
+			[
+				"kit",
+				"kitchenUpgrade"
+			],
+			[
+				"dat",
+				"UnitData"
+			],
+			[
+				"Sock",
+				"SocketSend"
+			],
+			[
+				"file",
+				"fileData"
+			],
+			[
+				"Socket",
+				"SocketServerStartListen"
+			],
+			[
+				"ki",
+				"kitchenUpgrade"
+			],
+			[
+				"Uni",
+				"UnitList"
+			],
+			[
+				"NUM",
+				"NUM_UNITS"
+			],
+			[
+				"wir",
+				"writeSettingsToFile"
+			],
+			[
+				"bath",
+				"bathroomUpgrade"
+			],
+			[
+				"ei",
+				"eid_input"
+			],
+			[
+				"uni",
+				"unit_name_fb"
+			],
+			[
+				"eid",
+				"eid_input"
+			],
+			[
+				"kic",
+				"kitchenUpgrade"
+			],
+			[
+				"res",
+				"residenceName"
+			],
+			[
+				"eid_",
+				"eid_fb"
+			],
+			[
+				"dir",
+				"dirError"
+			],
+			[
+				"dQue",
+				"dQueue"
+			],
+			[
+				"qu",
+				"dQueueSize"
+			],
+			[
+				"queu",
+				"queueIndex"
+			],
+			[
+				"clear",
+				"clearDelegates"
+			],
+			[
+				"cle",
+				"clear_delegates"
+			],
+			[
+				"Dqu",
+				"dQueueSize"
+			],
+			[
+				"dQ",
+				"dQueueSize"
+			],
+			[
+				"queue",
+				"queueSize"
+			],
+			[
+				"Num",
+				"NUMSEATS"
+			],
+			[
+				"delegateQueu",
+				"delegateQueueSeat"
+			],
+			[
+				"UPD",
+				"updateOutput"
+			],
+			[
+				"sea",
+				"seatIndex"
+			],
+			[
+				"is",
+				"isQueued"
+			],
+			[
+				"Upd",
+				"updateOutput"
+			],
+			[
+				"Queue",
+				"QueueDelegate"
+			],
+			[
+				"dele",
+				"delegateList"
+			],
+			[
+				"nu",
+				"NUMSEATS"
+			],
+			[
+				"nameRquest",
+				"nameRequestDone"
+			],
+			[
+				"nameRque",
+				"nameRequestDone"
+			],
+			[
+				"delegateName",
+				"delegateNameEntry"
+			],
+			[
+				"nameR",
+				"nameRequestByte"
+			],
+			[
+				"to_",
+				"to_device_queue"
+			],
+			[
+				"name",
+				"nameRequestByte"
+			],
+			[
+				"del",
+				"delegateInfoList"
+			],
+			[
+				"act",
+				"activeStatusString"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "info.json",
+			"settings":
+			{
+				"buffer_size": 293,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "prototypes/item.lua",
+			"settings":
+			{
+				"buffer_size": 432,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data.lua",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "control.lua",
+			"settings":
+			{
+				"buffer_size": 14,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jonda/mods/ModularBalancers/data.lua",
+		"/C/Users/jonda/mods/ModularBalancers/control.lua",
+		"/C/Users/jonda/mods/FireArmorTutorial_0.1.0/locale/en/config.cfg",
+		"/C/Users/jonda/mods/FireArmorTutorial_0.1.0/control.lua",
+		"/C/Users/jonda/mods/FireArmorTutorial_0.1.0/prototypes/item.lua",
+		"/C/Users/jonda/mods/FireArmorTutorial_0.1.0/data.lua",
+		"/C/Users/jonda/mods/FireArmorTutorial_0.1.0/info.json",
+		"/C/Users/jonda/AppData/Local/Temp/Temp1_clock_0.17.5.zip/clock_0.17.5/control.lua",
+		"/D/OneDrive/OneDrive - Conference Technologies, Inc/Documents/Crestron/Modules/Christi/Christi Terra Master v0.12.usp",
+		"/D/Users/jonda/Downloads/NVX Virtual Director_30 v1.1.usp",
+		"/D/OneDrive/OneDrive - Conference Technologies, Inc/CurrentProjects/Cheniere Energy-CCL OM Building-J18180240/Program/Control Program/ExtronSwitcher.usp",
+		"/C/Users/jonda/Documents/Curse/Minecraft/Instances/MekanismFeature/config/cofh/world/03_thermalfoundation_clathrates.json",
+		"/C/Users/jonda/Documents/Curse/Minecraft/Instances/MekanismFeature/config/cofh/world/01_thermalfoundation_ores.json",
+		"/C/Users/jonda/Documents/Curse/Minecraft/Instances/MekanismFeature/config/cofh/world/00_minecraft.json",
+		"/D/CreativeCloud/Creative Cloud Files/Projects/Feather/MOLLY'S FEATHER-01.svg",
+		"/C/Users/jonda/Documents/Crestron/Usrsplus/IconListHelper.usp",
+		"/D/OneDrive/OneDrive - Conference Technologies, Inc/CurrentProjects/J18180234 - Technip FMC/Code/TechnipFMCConfig.usp",
+		"/D/OneDrive/OneDrive - Conference Technologies, Inc/CurrentProjects/J18180234 - Technip FMC/Code/Barco Clickshare V1.1.usp",
+		"/D/OneDrive/OneDrive - Conference Technologies, Inc/CurrentProjects/J18180234 - Technip FMC/Code/configSetup.usp",
+		"/D/AVSIGroup/OneDrive - AVSI Group/CTI_Certification_Exam_20161227/_Documentation/ResidenceConfigFile.cfg",
+		"/C/Users/jonda/Documents/Crestron/Usrsplus/ResidenceConfig.usp",
+		"/C/Users/jonda/AppData/Roaming/Sublime Text 3/Packages/User/SimplPlus.sublime-build",
+		"/C/Users/jonda/Documents/Crestron/Usrsplus/CCP Message Log.usp",
+		"/C/Users/jonda/Documents/Crestron/Usrsplus/CCP Delegate Processor2.usp",
+		"/C/Users/jonda/Documents/Crestron/Usrsplus/CCP RTS Processor.usp",
+		"/C/Users/jonda/Documents/Crestron/Usrsplus/Multiple Analog to Serial Equate v2.1.usp",
+		"/D/AVSIGroup/OneDrive - AVSI Group/CTI_Certification_Exam_20161227/_Documentation/CertProject.sublime-project"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"iTransmitterIndex",
+			"transmitters",
+			"\"",
+			"aluminum",
+			"updateOutput",
+			"output",
+			"d",
+			"D",
+			"value_changed",
+			"configFileLoaded",
+			"readFile",
+			"value2",
+			"delegateQueued",
+			"Analog_In",
+			"N",
+			"n",
+			";\n",
+			"greenLight",
+			"StatusBytes",
+			"numSeats"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\x22",
+			"iReceiverIndex",
+			"receivers",
+			"\\x22",
+			"readFile",
+			"StatusBytes",
+			"numSeats"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "info.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "prototypes/item.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "data.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "control.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "Packages/User/SimplPlus.sublime-build",
+	"project": "ModularBalancers.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name":"ModularBalancers",
+	"version": "0.0.1",
+	"title": "Modular Balancers",
+	"author": "Jondan",
+	"contact": "jondan1986@gmail.com",
+	"homepage":"",
+	"factorio_version": "0.17",
+	"dependencies": ["base >= 0.17"],
+	"description": "Multiblock structure designed for easy belt balancing"
+
+}
