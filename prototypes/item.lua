@@ -1,14 +1,14 @@
 --item.lua
 
-local beltbalancer = table.deepcopy(data.raw.item["splitter"])
+local beltBalancerItem = {
+	icon = "__ModularBalancers__/graphics/icons/splitter.png",
+	icon_size = 32,
+	name = "belt-balancer",
+	order = "c[belt-balancer]-a[belt-balancer]",
+	place_result = "belt-balancer",
+	stack_size = 50,
+	subgroup = "belt",
+	type = "item"
+}
 
-beltbalancer.name = "belt-balancer"
-beltbalancer.place_result = "belt-balancer"
-
-local recipe = table.deepcopy(data.raw.recipe["splitter"])
-recipe.enabled = true
-recipe.name = "belt-balancer"
-recipe.ingredients = {{"copper-plate", 20}, {"steel-plate", 5}}
-recipe.result = "belt-balancer"
-
-data:extend{beltbalancer,recipe}
+data:extend({beltBalancerItem})
